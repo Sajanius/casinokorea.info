@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sajanius.github.io/casinokorea.info/sitemap.xml
+Sitemap: https:casinokorea.info/sitemap.xml
